@@ -8,19 +8,17 @@ Hermes Agent skill：面向生物物理/蛋白质力学/结构生物学方向的
 
 ## 一键安装（Hermes Agent）
 
-在任意 Hermes 会话里说：
-
-```
-/skills install <你的GitHub用户名>/skills/main/academic-daily-digest
-```
-
-或命令行：
-
 ```bash
-hermes skills install <你的GitHub用户名>/skills/main/academic-daily-digest
+hermes skills install Cosmoto-jian/academic-daily-digest/academic-daily-digest
 ```
 
-Hermes 会自动下载 `SKILL.md` + 全部引用的 `references/` 和 `scripts/` 文件，完成安全扫描后装入 `~/.hermes/skills/`。
+或在 Hermes 会话里直接说：
+
+```
+/skills install Cosmoto-jian/academic-daily-digest/academic-daily-digest
+```
+
+✅ 已实测：Hermes 自动定位 GitHub 仓库、完成安全扫描（SAFE），把 `SKILL.md` + `references/` + `scripts/` 全部装入 `~/.hermes/skills/`，装完即可用 `/academic-daily-digest` 调用。
 
 手动安装（其他 agent 也适用）：把 `academic-daily-digest/` 整个目录复制到你的 skills 目录即可。
 
