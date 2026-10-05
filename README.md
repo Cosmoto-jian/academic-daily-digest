@@ -6,12 +6,29 @@ Hermes Agent skill：面向生物物理/蛋白质力学/结构生物学方向的
 
 ![示例](https://img.shields.io/badge/platform-Hermes_Agent-blue) ![license](https://img.shields.io/badge/license-MIT-green)
 
-## 📰 输出效果（最近两期实拍）
+## 📰 输出效果（手机 PDF 实拍）
 
-下面是从最近两期日报中摘录的实际输出，所有条目均为真实论文 + 可点击原文链接：
+下面两张就是**手机上收到的 PDF 卡片版式的真实渲染截图**（100mm 手机宽度、深蓝学术主题、圆形序号徽章 + 分数胶囊徽章、卡片圆角、🔗 可点击原文链接），不是文字模拟——装好后你微信里收到的就是这个样子：
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <b>2026-10-05 期</b>（16 条收录）<br/>
+  <a href="assets/preview-1005.png"><img src="assets/preview-1005.png" width="280" alt="2026-10-05 期日报截图"/></a><br/>
+  <sub>TOP3：GuideFlip 蛋白结合剂设计 / sticker-spacer 致病变异语法 / DiffEnsemble 构象系综扩散</sub>
+</td>
+<td width="50%" align="center">
+  <b>2026-10-04 期</b>（17 条收录）<br/>
+  <a href="assets/preview-1004.png"><img src="assets/preview-1004.png" width="280" alt="2026-10-04 期日报截图"/></a><br/>
+  <sub>TOP3：fp-SMD 光镊力谱模拟 / 氢键 Hamiltonian 复制交换 / Aβ 聚集中间体分型</sub>
+</td>
+</tr>
+</table>
+
+> 截图为 2× 分辨率渲染（与手机 Retina 屏一致），点击可放大查看原始尺寸。以下折叠块是同一内容的**文字版**，便于搜索与复制链接：
 
 <details open>
-<summary><b>2026-10-05 期</b>（16 条收录）— 点击展开/收起</summary>
+<summary><b>2026-10-05 期</b>（文字版）— 点击展开/收起</summary>
 
 > 领域：生物物理 / 蛋白质力学 / 结构生物学与计算结构生物学
 
@@ -37,7 +54,7 @@ Hermes Agent skill：面向生物物理/蛋白质力学/结构生物学方向的
 </details>
 
 <details>
-<summary><b>2026-10-04 期</b>（17 条收录）— 点击展开/收起</summary>
+<summary><b>2026-10-04 期</b>（文字版）— 点击展开/收起</summary>
 
 > 领域：生物物理 / 蛋白质力学 / 结构生物学与计算结构生物学
 
